@@ -1,2 +1,28 @@
-# talk_to_pc
-this is fun projectr in javascript that enable phone to talk to the pc, and execute some defined command
+# Socket Programming Project: Real-Time Communication App
+
+## Introduction
+This project aims to create a real-time communication application using socket programming. Users can communicate with each other in real-time by connecting their devices to a central server.
+
+## Installation and Setup (For Linux Users)
+
+### Step 1: Edit IP Address
+In the server code file, locate the last line where the IP address is specified. Edit the IP address to match the IP address of your server machine.
+
+### Step 2: Open Port
+Open the port on your server machine to allow incoming connections. For Linux Ubuntu users, you can use the following command to open a port (replace `<port_number>` with the desired port number):
+
+sudo ufw allow <port_number>
+
+### Step 3: Download the App
+Download and install the TCP/UDP Server-Client application from the App Store:
+[TCP/UDP Server-Client - Google Play Store](https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient)
+
+### Step 4: Create Client
+Create a client instance on your phone and a server instance on your PC. Ensure that the client is configured to connect to the IP address and port where the server is running.
+
+## Usage
+Once the server is running and the client is connected, users can start communicating with each other in real-time through the application.
+
+## Note
+Ensure that both the server and client devices are connected to the same network for communication to work properly.
+

@@ -1,7 +1,9 @@
 # Socket Programming Project: Real-Time Communication App
 
-## Introduction
-This project aims to create a real-time communication application using socket programming. Users can communicate with each other in real-time by connecting their devices to a central server.
+## Prerequisites
+- Linux operating system
+- JavaScript knowledge
+- Understanding of socket programming concepts
 
 ## Installation and Setup (For Linux Users)
 

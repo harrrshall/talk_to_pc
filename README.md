@@ -8,7 +8,7 @@
 ## Installation and Setup (For Linux Users)
 
 ### Step 1: Edit IP Address
-In the server code file, locate the last line where the IP address is specified. Edit the IP address to match the IP address of your server machine.
+In the socket.js or sockets.py file, locate the last line where the IP address is specified. Edit the IP address to match the IP address of your server machine.
 
 ### Step 2: Open Port
 Open the port on your server machine to allow incoming connections. For Linux Ubuntu users, you can use the following command to open a port (replace `<port_number>` with the desired port number):

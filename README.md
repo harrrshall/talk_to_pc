@@ -16,7 +16,7 @@ Open the port on your server machine to allow incoming connections. For Linux Ub
 sudo ufw allow <port_number>
 
 ### Step 3: Download the App
-Download and install the TCP/UDP Server-Client application from the [App Store](https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient)
+Download and install the TCP/UDP Server-Client application from the [App Store](https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient) in your mobile phone
 
 ### Step 4: Create Client
 Create a client instance on your phone and a server instance on your PC. Ensure that the client is configured to connect to the IP address and port where the server is running.
